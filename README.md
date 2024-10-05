@@ -35,7 +35,7 @@ Tabs.Main2:AddParagraph({ Title = "🏆 BÁSICO", Content = "- Uma pequena galer
 Tabs.Pdex:AddParagraph({ Title = "📜 UPDATE 0.0.2", Content = "Alguns tipos de erros corrigidos, novos scripts também foram adicionados. 🍄 Scripts Adicionados: The Rake - GEF - FPS BOOSTER." })
 Tabs.Pdex:AddParagraph({ Title = "📜 UPDATE 0.0.3", Content = "Mais algumas alterações no 'HUB', nenhuma adição de scripts. 🔗 Discord Adicionado." })
 Tabs.Pdex:AddParagraph({ Title = "⭐ UPDATE 0.0.4", Content = "Muitas mudanças feitas, agora com a nova 'ABA' '🏡 INICIO'. O hub sofreu algumas mudanas e correções de 'Bugs'." })
-Tabs.Pdex:AddParagraph({ Title = "⭐ UPDATE 0.0.5", Content = "Categoria de 'Scripters FE & FPS', pequenos erros corrigidos. 🔥 Scripts Adicionados: DOORS - Swordburst 3." })
+Tabs.Pdex:AddParagraph({ Title = "📜 UPDATE 0.0.5", Content = "Categoria de 'Scripters FE & FPS', pequenos erros corrigidos. 🔥 Scripts Adicionados: DOORS - Swordburst 3." })
 Tabs.Dex:AddParagraph({ Title = "✨ INFORMAÇÕES", Content = "- Todos os scripts funcionan para computador, mais não é por isso que não iram funcionar para celular também." })
 Tabs.Odex:AddParagraph({ Title = "✨ INFORMAÇÕES", Content = "Todos os scripts funcionan para mobile/celular, mais não é por isso que não iram funcionar para computador também." })
 Tabs.Main:AddParagraph({ Title = "🏡 Hub Criado", Content = "04/10/2024" })
